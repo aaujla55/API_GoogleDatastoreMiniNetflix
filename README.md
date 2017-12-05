@@ -3,3 +3,4 @@ Users can upload/download movie, write comments, rate the movie, Web application
 
 
 Change the bucket name in MoviesController.cs class
+Change the Project id in DatastoreMovieStore.cs to that name of og your project in Google console 
