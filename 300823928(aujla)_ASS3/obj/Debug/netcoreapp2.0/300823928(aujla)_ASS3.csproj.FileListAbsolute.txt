@@ -1,0 +1,11 @@
+G:\Fall2017_Sem6\API\300823928(aujla)_ASS3\300823928(aujla)_ASS3\bin\Debug\netcoreapp2.0\300823928(aujla)_ASS3.deps.json
+G:\Fall2017_Sem6\API\300823928(aujla)_ASS3\300823928(aujla)_ASS3\bin\Debug\netcoreapp2.0\300823928(aujla)_ASS3.runtimeconfig.json
+G:\Fall2017_Sem6\API\300823928(aujla)_ASS3\300823928(aujla)_ASS3\bin\Debug\netcoreapp2.0\300823928(aujla)_ASS3.runtimeconfig.dev.json
+G:\Fall2017_Sem6\API\300823928(aujla)_ASS3\300823928(aujla)_ASS3\bin\Debug\netcoreapp2.0\300823928(aujla)_ASS3.dll
+G:\Fall2017_Sem6\API\300823928(aujla)_ASS3\300823928(aujla)_ASS3\bin\Debug\netcoreapp2.0\300823928(aujla)_ASS3.pdb
+G:\Fall2017_Sem6\API\300823928(aujla)_ASS3\300823928(aujla)_ASS3\obj\Debug\netcoreapp2.0\300823928(aujla)_ASS3.csproj.CoreCompileInputs.cache
+G:\Fall2017_Sem6\API\300823928(aujla)_ASS3\300823928(aujla)_ASS3\obj\Debug\netcoreapp2.0\300823928(aujla)_ASS3.AssemblyInfoInputs.cache
+G:\Fall2017_Sem6\API\300823928(aujla)_ASS3\300823928(aujla)_ASS3\obj\Debug\netcoreapp2.0\300823928(aujla)_ASS3.AssemblyInfo.cs
+G:\Fall2017_Sem6\API\300823928(aujla)_ASS3\300823928(aujla)_ASS3\obj\Debug\netcoreapp2.0\300823928(aujla)_ASS3.dll
+G:\Fall2017_Sem6\API\300823928(aujla)_ASS3\300823928(aujla)_ASS3\obj\Debug\netcoreapp2.0\300823928(aujla)_ASS3.pdb
+G:\Fall2017_Sem6\API\300823928(aujla)_ASS3\300823928(aujla)_ASS3\obj\Debug\netcoreapp2.0\300823928(aujla)_ASS3.csprojResolveAssemblyReference.cache

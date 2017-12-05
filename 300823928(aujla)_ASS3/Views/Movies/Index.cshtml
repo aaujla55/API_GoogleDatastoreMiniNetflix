@@ -1,0 +1,43 @@
+﻿
+@*@model Index*@
+@model _300823928_aujla__ASS3.ViewModels.MovieViewModel
+
+@{ 
+    ViewData["Title"] = "Movies";
+}
+
+<h4>Available Movies</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <a asp-action="Create">Test</a>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                   
+                    <th scope="col">Name</th>
+                    <th scope="col">Comments</th>
+                    <th scope="col">Rating</th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+   
+    @foreach (var movie in Model.MovieList)
+    {
+    <tr scope="row">
+                <td>@movie.Title</td>
+                    <td>@movie.Comments</td>
+                    <td>@movie.Rating</td>
+                    <td><a href="@movie.FileUrl" class="elements"><span>Download</span></a></td></tr>
+     }
+
+
+               
+
+            </tbody>
+        </table>
+
+    </div>
+
+</div>
